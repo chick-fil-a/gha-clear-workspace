@@ -5,6 +5,7 @@ runs:
   steps:
     - shell: bash 
       run: |
-        sudo rm -rf ${{ github.workspace }}
+        echo "Cleaning workspace directory..."
+        sudo rm -rfv ${{ github.workspace }}
         mkdir -p ${{ github.workspace }}
       
