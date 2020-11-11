@@ -1,3 +1,5 @@
+name: Clear Workspace
+description: Clear workspace on github actions self-hosted runner
 runs:
   using: "composite"
   steps:
