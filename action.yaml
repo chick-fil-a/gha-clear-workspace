@@ -5,5 +5,5 @@ runs:
   steps:
     - shell: bash 
       run: |
-        sudo rm -rf ${{ github.workspace }}
+        sudo rm -rf ${{ github.workspace }}/* ${{ github.workspace }}/.*
       
