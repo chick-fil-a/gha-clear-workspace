@@ -1,5 +1,5 @@
 name: Clear Workspace
-description: Clear workspace on github actions self-hosted runner
+description: This action clears the github workspace for the currently running workflow. This is designed to be used on self-hosted runners where the project workspace persists between workflow runs. Many times cleaning the workspace is essential to success.
 runs:
   using: "composite"
   steps:
