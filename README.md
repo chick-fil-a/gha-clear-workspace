@@ -8,7 +8,7 @@ This action can be run on any GitHub hosted runners or self-hosted runners as lo
 
 ```
 steps:
-- uses: cfacorp/gha-clear-workspace@master
+  - uses: cfacorp/gha-clear-workspace@master
 ```
 
 # License
