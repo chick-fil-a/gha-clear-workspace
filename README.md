@@ -13,4 +13,4 @@ steps:
 
 # License
 
-[Mozilla Public License v2.0](https://github.com/cfacorp/gha-clear-workspace/blob/master/LICENSE)
+[Apache License 2.0](https://github.com/cfacorp/gha-clear-workspace/blob/master/LICENSE)
