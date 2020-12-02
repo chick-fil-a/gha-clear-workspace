@@ -8,7 +8,7 @@ This action can be run on any GitHub hosted runners or self-hosted runners as lo
 
 ```
 steps:
-  - uses: timharris777/gha-clear-workspace@master
+  - uses: chick-fil-a/gha-clear-workspace@v1
 ```
 
 # License
